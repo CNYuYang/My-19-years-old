@@ -245,6 +245,7 @@
 
 \RequirePackage{graphicx}
 %\RequirePackage{enumerate}
+\let\Bbbk\relax
 \RequirePackage{amsmath,mathrsfs,amsfonts,amssymb}
 \RequirePackage{booktabs}
 \RequirePackage{multicol}
